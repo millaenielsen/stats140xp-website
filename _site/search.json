@@ -17,8 +17,8 @@
     "objectID": "about.html#data-science-skills",
     "href": "about.html#data-science-skills",
     "title": "About",
-    "section": "📊 Data Science Skills",
-    "text": "📊 Data Science Skills\n\n🔢 Programming & Tools\n\nPython (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch)\n\nR (tidyverse, ggplot2, caret)\n\nSQL & Database Management\n\nGit & GitHub for version control\n\n\n\n📈 Machine Learning & AI\n\nSupervised & Unsupervised Learning\n\nDeep Learning (CNNs, RNNs, Transformers)\n\nComputer Vision & Image Processing\n\nNatural Language Processing (NLP)\n\n\n\n📊 Data Analytics & Visualization\n\nStatistical Analysis & Hypothesis Testing\n\nData Cleaning & Feature Engineering\n\nData Visualization (Matplotlib, Seaborn, Plotly, Tableau)\n\nA/B Testing & Experiment Design\n\n\n\n🚀 Applied Experience\n\nPredicting Alzheimer’s with MRI scans using XGBoost\n\nData Science Consulting for startups\n\nResearch on AI applications in medical imaging\n\nBuilding end-to-end machine learning pipelines"
+    "section": "Data Science Skills",
+    "text": "Data Science Skills\n\nProgramming & Tools\n\nPython (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch)\n\nR (tidyverse, ggplot2, caret)\n\nSQL & Database Management\n\nGit & GitHub for version control\n\n\n\nMachine Learning & AI\n\nSupervised & Unsupervised Learning\n\nDeep Learning (CNNs, RNNs, Transformers)\n\nComputer Vision & Image Processing\n\nNatural Language Processing (NLP)\n\n\n\nData Analytics & Visualization\n\nStatistical Analysis & Hypothesis Testing\n\nData Cleaning & Feature Engineering\n\nData Visualization (Matplotlib, Seaborn, Plotly, Tableau)\n\nA/B Testing & Experiment Design\n\n\n\nApplied Experience\n\nPredicting Alzheimer’s with MRI scans using XGBoost\n\nData Science Consulting for startups\n\nResearch on AI applications in medical imaging\n\nBuilding end-to-end machine learning pipelines"
   },
   {
     "objectID": "about.html#personal-interests",
@@ -42,11 +42,25 @@
     "text": "Contact Me\n📧 Email: millaenielsen@ucla.edu\n🔗 LinkedIn: linkedin.com/in/milla-nielsen-817738290\n🐙 GitHub: github.com/millaenielsen"
   },
   {
-    "objectID": "research.html#work",
-    "href": "research.html#work",
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "Experience",
-    "section": "Work",
-    "text": "Work"
+    "section": "",
+    "text": "📍 Pioneer Centre for AI – University of Copenhagen\n🗓️ July 2024 – August 2024\nI developed and optimized a machine learning model using XGBoost to predict Alzheimer’s Disease based on MRI biomarkers. To enhance model performance, I implemented 10-fold cross-validation and conducted a grid search to fine-tune hyperparameters. Additionally, I extracted features from MRI scans using a 3D Convolutional Neural Network (CNN) in PyTorch, leveraging transfer learning with pre-trained weights. This approach resulted in a 0.84 validation AUC score, effectively distinguishing between MRI scans of individuals with and without Alzheimer’s Disease.\n🔗 Project Repository: GitHub – Imaging Biomarkers\n\n\n\n📍 University of California, Los Angeles\n🗓️ August 2023 – June 2024\nI trained and benchmarked OpenAI’s Whisper model to transcribe and translate Russian media clips, evaluating its effectiveness across different model sizes. To assess performance, I compared the small, medium, and large Whisper models using word error rate and BLEU score. Additionally, I designed a processing pipeline on a UCLA Linux GPU system to transcribe and translate over 1,000 hours of Russian audio, contributing to research on media bias."
+  },
+  {
+    "objectID": "research.html#research-projects",
+    "href": "research.html#research-projects",
+    "title": "Experience",
+    "section": "",
+    "text": "📍 Pioneer Centre for AI – University of Copenhagen\n🗓️ July 2024 – August 2024\nI developed and optimized a machine learning model using XGBoost to predict Alzheimer’s Disease based on MRI biomarkers. To enhance model performance, I implemented 10-fold cross-validation and conducted a grid search to fine-tune hyperparameters. Additionally, I extracted features from MRI scans using a 3D Convolutional Neural Network (CNN) in PyTorch, leveraging transfer learning with pre-trained weights. This approach resulted in a 0.84 validation AUC score, effectively distinguishing between MRI scans of individuals with and without Alzheimer’s Disease.\n🔗 Project Repository: GitHub – Imaging Biomarkers\n\n\n\n📍 University of California, Los Angeles\n🗓️ August 2023 – June 2024\nI trained and benchmarked OpenAI’s Whisper model to transcribe and translate Russian media clips, evaluating its effectiveness across different model sizes. To assess performance, I compared the small, medium, and large Whisper models using word error rate and BLEU score. Additionally, I designed a processing pipeline on a UCLA Linux GPU system to transcribe and translate over 1,000 hours of Russian audio, contributing to research on media bias."
+  },
+  {
+    "objectID": "research.html#student-orgswork-experience",
+    "href": "research.html#student-orgswork-experience",
+    "title": "Experience",
+    "section": "Student Orgs/Work Experience",
+    "text": "Student Orgs/Work Experience\n\nCo-President – National Student Data Corps (NSDC), UCLA\n📍 Los Angeles, CA\n🗓️ February 2023 – Present\n- Built an inclusive data science community of 500+ students, increasing membership by 80%\n- Developed 40+ student-led projects, industry talks, and hackathons to introduce students to machine learning and data science\n- Hosted workshops on Data Science, Tableau, NLP, Python, and Machine Learning\n- Designed and maintained the NSDC UCLA website as a central hub for resources\n\n\nHead of Consulting – UCLA Data Resolutions\n📍 Los Angeles, CA\n🗓️ March 2024 – Present\n- Managed communication between 5+ startup clients and teams of 7 students, providing data-backed solutions\n- Recruited and trained 20+ new project team members and 15+ new industry clients\n\n\nData Analytics Intern – YWCA Berkeley/Oakland\n📍 Berkeley, CA\n🗓️ August 2017 – June 2021\n- Conducted social media impact analysis, increasing engagement by 20%\n- Designed data-driven ad campaigns to promote financial literacy and human trafficking awareness"
   },
   {
     "objectID": "index.html",
@@ -74,34 +88,6 @@
     "href": "index.html#lets-build-something-cool",
     "title": "Milla Nielsen",
     "section": "Let’s Build Something Cool!",
-    "text": "Let’s Build Something Cool!\nI’m always open to collaborations in AI, machine learning, and data science consulting. If you’re working on something exciting, let’s chat!\n📧 Email Me | 🐙 GitHub | 📄 View My CV"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Experience",
-    "section": "",
-    "text": "📍 Pioneer Centre for AI – University of Copenhagen\n🗓️ July 2024 – August 2024\nI developed and optimized a machine learning model using XGBoost to predict Alzheimer’s Disease based on MRI biomarkers. To enhance model performance, I implemented 10-fold cross-validation and conducted a grid search to fine-tune hyperparameters. Additionally, I extracted features from MRI scans using a 3D Convolutional Neural Network (CNN) in PyTorch, leveraging transfer learning with pre-trained weights. This approach resulted in a 0.84 validation AUC score, effectively distinguishing between MRI scans of individuals with and without Alzheimer’s Disease.\n🔗 Project Repository: GitHub – Imaging Biomarkers\n\n\n\n📍 University of California, Los Angeles\n🗓️ August 2023 – June 2024\nI trained and benchmarked OpenAI’s Whisper model to transcribe and translate Russian media clips, evaluating its effectiveness across different model sizes. To assess performance, I compared the small, medium, and large Whisper models using word error rate and BLEU score. Additionally, I designed a processing pipeline on a UCLA Linux GPU system to transcribe and translate over 1,000 hours of Russian audio, contributing to research on media bias."
-  },
-  {
-    "objectID": "research.html#research-projects",
-    "href": "research.html#research-projects",
-    "title": "Experience",
-    "section": "",
-    "text": "📍 Pioneer Centre for AI – University of Copenhagen\n🗓️ July 2024 – August 2024\nI developed and optimized a machine learning model using XGBoost to predict Alzheimer’s Disease based on MRI biomarkers. To enhance model performance, I implemented 10-fold cross-validation and conducted a grid search to fine-tune hyperparameters. Additionally, I extracted features from MRI scans using a 3D Convolutional Neural Network (CNN) in PyTorch, leveraging transfer learning with pre-trained weights. This approach resulted in a 0.84 validation AUC score, effectively distinguishing between MRI scans of individuals with and without Alzheimer’s Disease.\n🔗 Project Repository: GitHub – Imaging Biomarkers\n\n\n\n📍 University of California, Los Angeles\n🗓️ August 2023 – June 2024\nI trained and benchmarked OpenAI’s Whisper model to transcribe and translate Russian media clips, evaluating its effectiveness across different model sizes. To assess performance, I compared the small, medium, and large Whisper models using word error rate and BLEU score. Additionally, I designed a processing pipeline on a UCLA Linux GPU system to transcribe and translate over 1,000 hours of Russian audio, contributing to research on media bias."
-  },
-  {
-    "objectID": "research.html#work-experience",
-    "href": "research.html#work-experience",
-    "title": "Experience",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nCo-President – National Student Data Corps (NSDC), UCLA\n📍 Los Angeles, CA\n🗓️ February 2023 – Present\n- Built an inclusive data science community of 500+ students, increasing membership by 80%\n- Developed 10+ student-led projects, industry talks, and hackathons to introduce students to machine learning and data science\n- Hosted workshops on Data Science, Tableau, NLP, Python, and Machine Learning\n- Designed and maintained the NSDC UCLA website as a central hub for resources\n\n\nHead of Consulting – UCLA Data Resolutions\n📍 Los Angeles, CA\n🗓️ March 2024 – Present\n- Managed communication between 5+ startup clients and teams of 7 students, providing data-backed solutions\n- Recruited and trained 20+ new project team members and 15+ new industry clients\n\n\nData Analytics Intern – YWCA Berkeley/Oakland\n📍 Berkeley, CA\n🗓️ August 2017 – June 2021\n- Conducted social media impact analysis, increasing engagement by 20%\n- Designed data-driven ad campaigns to promote financial literacy and human trafficking awareness"
-  },
-  {
-    "objectID": "research.html#student-orgswork-experience",
-    "href": "research.html#student-orgswork-experience",
-    "title": "Experience",
-    "section": "Student Orgs/Work Experience",
-    "text": "Student Orgs/Work Experience\n\nCo-President – National Student Data Corps (NSDC), UCLA\n📍 Los Angeles, CA\n🗓️ February 2023 – Present\n- Built an inclusive data science community of 500+ students, increasing membership by 80%\n- Developed 10+ student-led projects, industry talks, and hackathons to introduce students to machine learning and data science\n- Hosted workshops on Data Science, Tableau, NLP, Python, and Machine Learning\n- Designed and maintained the NSDC UCLA website as a central hub for resources\n\n\nHead of Consulting – UCLA Data Resolutions\n📍 Los Angeles, CA\n🗓️ March 2024 – Present\n- Managed communication between 5+ startup clients and teams of 7 students, providing data-backed solutions\n- Recruited and trained 20+ new project team members and 15+ new industry clients\n\n\nData Analytics Intern – YWCA Berkeley/Oakland\n📍 Berkeley, CA\n🗓️ August 2017 – June 2021\n- Conducted social media impact analysis, increasing engagement by 20%\n- Designed data-driven ad campaigns to promote financial literacy and human trafficking awareness"
+    "text": "Let’s Build Something Cool!\nI’m always open to collaborations in AI, machine learning, and data science consulting. Feel free to reach out to me!\n📧 Email Me | 🐙 GitHub | 📄 View My CV"
   }
 ]
