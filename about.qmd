@@ -10,27 +10,27 @@ Passionate about the intersection of **artificial intelligence** and **medical i
 
 ---
 
-## 📊 Data Science Skills  
+## Data Science Skills  
 
-### 🔢 **Programming & Tools**  
+### **Programming & Tools**  
 - Python (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch)  
 - R (tidyverse, ggplot2, caret)  
 - SQL & Database Management  
 - Git & GitHub for version control  
 
-### 📈 **Machine Learning & AI**  
+### **Machine Learning & AI**  
 - Supervised & Unsupervised Learning  
 - Deep Learning (CNNs, RNNs, Transformers)  
 - Computer Vision & Image Processing  
 - Natural Language Processing (NLP)  
 
-### 📊 **Data Analytics & Visualization**  
+### **Data Analytics & Visualization**  
 - Statistical Analysis & Hypothesis Testing  
 - Data Cleaning & Feature Engineering  
 - Data Visualization (Matplotlib, Seaborn, Plotly, Tableau)  
 - A/B Testing & Experiment Design  
 
-### 🚀 **Applied Experience**  
+### **Applied Experience**  
 - Predicting Alzheimer’s with MRI scans using XGBoost  
 - Data Science Consulting for startups  
 - Research on AI applications in medical imaging  
