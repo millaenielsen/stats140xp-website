@@ -1,0 +1,48 @@
+---
+title: "Experience"
+---
+
+## Research Projects  
+
+### **Predicting Alzheimer’s Using Machine Learning**  
+📍 *Pioneer Centre for AI – University of Copenhagen*  
+🗓️ *July 2024 – August 2024*  
+- Developed and optimized a machine learning model using **XGBoost** to predict **Alzheimer's Disease** using **MRI biomarkers**  
+- Implemented **10-fold cross-validation** and **grid search** to fine-tune hyperparameters  
+- Extracted features from MRI scans using a **3D Convolutional Neural Network (CNN) in PyTorch**, leveraging **transfer learning**  
+- Achieved a **0.84 validation AUC score** when classifying between Alzheimer's and non-Alzheimer's MRI scans  
+
+🔗 **Project Repository:** [GitHub – Imaging Biomarkers](https://github.com/millaenielsen/imaging-biomarkers)  
+
+### **Neural Network Benchmarking for Transcription & Translation**  
+📍 *University of California, Los Angeles*  
+🗓️ *August 2023 – June 2024*  
+- Trained and benchmarked OpenAI’s **Whisper** model for transcribing and translating **Russian media clips**  
+- Compared **small, medium, and large Whisper models** using **word error rate and BLEU score**  
+- Designed a pipeline on a **UCLA Linux GPU system** to process over **1,000 hours** of Russian audio for media bias research  
+
+---
+
+## Work Experience  
+
+### **Co-President – National Student Data Corps (NSDC), UCLA**  
+📍 *Los Angeles, CA*  
+🗓️ *February 2023 – Present*  
+- Built an inclusive **data science community of 500+ students**, increasing membership by **80%**  
+- Developed **10+ student-led projects, industry talks, and hackathons** to introduce students to **machine learning and data science**  
+- Hosted workshops on **Data Science, Tableau, NLP, Python, and Machine Learning**  
+- Designed and maintained the **NSDC UCLA website** as a central hub for resources  
+
+### **Head of Consulting – UCLA Data Resolutions**  
+📍 *Los Angeles, CA*  
+🗓️ *March 2024 – Present*  
+- Managed communication between **5+ startup clients** and **teams of 7 students**, providing **data-backed solutions**  
+- Recruited and trained **20+ new project team members** and **15+ new industry clients**  
+
+### **Data Analytics Intern – YWCA Berkeley/Oakland**  
+📍 *Berkeley, CA*  
+🗓️ *August 2017 – June 2021*  
+- Conducted **social media impact analysis**, increasing engagement by **20%**  
+- Designed **data-driven ad campaigns** to promote **financial literacy and human trafficking awareness**  
+
+---

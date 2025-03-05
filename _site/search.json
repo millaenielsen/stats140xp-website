@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Senior, Statistics and Data Science\nUniversity of California, Los Angeles\nPassionate about the intersection of artificial intelligence and medical imaging, with experience in deep learning research and applications in healthcare."
+  },
+  {
+    "objectID": "about.html#milla-nielsen",
+    "href": "about.html#milla-nielsen",
+    "title": "About",
+    "section": "",
+    "text": "Senior, Statistics and Data Science\nUniversity of California, Los Angeles\nPassionate about the intersection of artificial intelligence and medical imaging, with experience in deep learning research and applications in healthcare."
+  },
+  {
+    "objectID": "about.html#data-science-skills",
+    "href": "about.html#data-science-skills",
+    "title": "About",
+    "section": "📊 Data Science Skills",
+    "text": "📊 Data Science Skills\n\n🔢 Programming & Tools\n\nPython (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch)\n\nR (tidyverse, ggplot2, caret)\n\nSQL & Database Management\n\nGit & GitHub for version control\n\n\n\n📈 Machine Learning & AI\n\nSupervised & Unsupervised Learning\n\nDeep Learning (CNNs, RNNs, Transformers)\n\nComputer Vision & Image Processing\n\nNatural Language Processing (NLP)\n\n\n\n📊 Data Analytics & Visualization\n\nStatistical Analysis & Hypothesis Testing\n\nData Cleaning & Feature Engineering\n\nData Visualization (Matplotlib, Seaborn, Plotly, Tableau)\n\nA/B Testing & Experiment Design\n\n\n\n🚀 Applied Experience\n\nPredicting Alzheimer’s with MRI scans using XGBoost\n\nData Science Consulting for startups\n\nResearch on AI applications in medical imaging\n\nBuilding end-to-end machine learning pipelines"
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About",
+    "section": "Personal Interests",
+    "text": "Personal Interests\n\n🧠 AI & Medical Imaging – Exploring deep learning models for healthcare applications\n\n📊 Data Science – Statistical modeling, machine learning, and data-driven decision-making\n\n🌍 Impact-Driven Tech – Using data to solve real-world problems"
+  },
+  {
+    "objectID": "about.html#hobbies-fun-facts",
+    "href": "about.html#hobbies-fun-facts",
+    "title": "About",
+    "section": "Hobbies & Fun Facts",
+    "text": "Hobbies & Fun Facts\n\n🥾 Hiking – Always looking for the next scenic trail\n\n📖 Reading – Avid reader with an ever-growing booklist\n\n🍪 Baking – Specializes in making (and perfecting) cookies\n\n🍽️ Hosting – Loves bringing people together for dinner parties\n\n✈️ Traveling – Explored Panama, Croatia, Botswana, Jordan, Namibia, Italy, Japan, Thailand, Singapore, and more\n\n🇩🇰 Danish Heritage – Half Danish and proud of it!\n\n✨ Matching Tattoo – Has a tattoo that matches with my whole family"
+  },
+  {
+    "objectID": "about.html#contact-me",
+    "href": "about.html#contact-me",
+    "title": "About",
+    "section": "Contact Me",
+    "text": "Contact Me\n📧 Email: millaenielsen@ucla.edu\n🔗 LinkedIn: linkedin.com/in/milla-nielsen-817738290\n🐙 GitHub: github.com/millaenielsen"
+  },
+  {
+    "objectID": "research.html#work",
+    "href": "research.html#work",
+    "title": "Experience",
+    "section": "Work",
+    "text": "Work"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Milla Nielsen",
+    "section": "",
+    "text": "I am a senior at the University of California, Los Angeles, majoring in Statistics and Data Science with a minor in Data Science Engineering. My interests lie at the intersection of artificial intelligence and medical imaging. I have conducted research at the University of Copenhagen and expanded my expertise in deep learning through coursework at UCLA, focusing on its applications in medical image processing. My goal is to work at a company committed to using technology to make a meaningful impact on the world."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Milla Nielsen",
+    "section": "",
+    "text": "I am a senior at the University of California, Los Angeles, majoring in Statistics and Data Science with a minor in Data Science Engineering. My interests lie at the intersection of artificial intelligence and medical imaging. I have conducted research at the University of Copenhagen and expanded my expertise in deep learning through coursework at UCLA, focusing on its applications in medical image processing. My goal is to work at a company committed to using technology to make a meaningful impact on the world."
+  },
+  {
+    "objectID": "index.html#what-im-up-to-right-now",
+    "href": "index.html#what-im-up-to-right-now",
+    "title": "Milla Nielsen",
+    "section": "What I’m Up To Right Now",
+    "text": "What I’m Up To Right Now\n\nWorking on: A project using deep learning to analyze EMG data\nLearning: Advanced computer vision techniques with PyTorch\n\nUpcoming Trip: Planning a visit to Budapest\nReading: Onyx Storm by Rebecca Yarros"
+  },
+  {
+    "objectID": "index.html#lets-build-something-cool",
+    "href": "index.html#lets-build-something-cool",
+    "title": "Milla Nielsen",
+    "section": "Let’s Build Something Cool!",
+    "text": "Let’s Build Something Cool!\nI’m always open to collaborations in AI, machine learning, and data science consulting. If you’re working on something exciting, let’s chat!\n📧 Email Me | 🐙 GitHub | 📄 View My CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Experience",
+    "section": "",
+    "text": "📍 Pioneer Centre for AI – University of Copenhagen\n🗓️ July 2024 – August 2024\n- Developed and optimized a machine learning model using XGBoost to predict Alzheimer’s Disease using MRI biomarkers\n- Implemented 10-fold cross-validation and grid search to fine-tune hyperparameters\n- Extracted features from MRI scans using a 3D Convolutional Neural Network (CNN) in PyTorch, leveraging transfer learning\n- Achieved a 0.84 validation AUC score when classifying between Alzheimer’s and non-Alzheimer’s MRI scans\n🔗 Project Repository: GitHub – Imaging Biomarkers\n\n\n\n📍 University of California, Los Angeles\n🗓️ August 2023 – June 2024\n- Trained and benchmarked OpenAI’s Whisper model for transcribing and translating Russian media clips\n- Compared small, medium, and large Whisper models using word error rate and BLEU score\n- Designed a pipeline on a UCLA Linux GPU system to process over 1,000 hours of Russian audio for media bias research"
+  },
+  {
+    "objectID": "research.html#research-projects",
+    "href": "research.html#research-projects",
+    "title": "Experience",
+    "section": "",
+    "text": "📍 Pioneer Centre for AI – University of Copenhagen\n🗓️ July 2024 – August 2024\n- Developed and optimized a machine learning model using XGBoost to predict Alzheimer’s Disease using MRI biomarkers\n- Implemented 10-fold cross-validation and grid search to fine-tune hyperparameters\n- Extracted features from MRI scans using a 3D Convolutional Neural Network (CNN) in PyTorch, leveraging transfer learning\n- Achieved a 0.84 validation AUC score when classifying between Alzheimer’s and non-Alzheimer’s MRI scans\n🔗 Project Repository: GitHub – Imaging Biomarkers\n\n\n\n📍 University of California, Los Angeles\n🗓️ August 2023 – June 2024\n- Trained and benchmarked OpenAI’s Whisper model for transcribing and translating Russian media clips\n- Compared small, medium, and large Whisper models using word error rate and BLEU score\n- Designed a pipeline on a UCLA Linux GPU system to process over 1,000 hours of Russian audio for media bias research"
+  },
+  {
+    "objectID": "research.html#work-experience",
+    "href": "research.html#work-experience",
+    "title": "Experience",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nCo-President – National Student Data Corps (NSDC), UCLA\n📍 Los Angeles, CA\n🗓️ February 2023 – Present\n- Built an inclusive data science community of 500+ students, increasing membership by 80%\n- Developed 10+ student-led projects, industry talks, and hackathons to introduce students to machine learning and data science\n- Hosted workshops on Data Science, Tableau, NLP, Python, and Machine Learning\n- Designed and maintained the NSDC UCLA website as a central hub for resources\n\n\nHead of Consulting – UCLA Data Resolutions\n📍 Los Angeles, CA\n🗓️ March 2024 – Present\n- Managed communication between 5+ startup clients and teams of 7 students, providing data-backed solutions\n- Recruited and trained 20+ new project team members and 15+ new industry clients\n\n\nData Analytics Intern – YWCA Berkeley/Oakland\n📍 Berkeley, CA\n🗓️ August 2017 – June 2021\n- Conducted social media impact analysis, increasing engagement by 20%\n- Designed data-driven ad campaigns to promote financial literacy and human trafficking awareness"
+  }
+]

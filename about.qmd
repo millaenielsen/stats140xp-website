@@ -1,0 +1,61 @@
+---
+title: "About"
+---
+
+## Milla Nielsen  
+**Senior, Statistics and Data Science**  
+*University of California, Los Angeles*  
+
+Passionate about the intersection of **artificial intelligence** and **medical imaging**, with experience in **deep learning** research and applications in healthcare. 
+
+---
+
+## 📊 Data Science Skills  
+
+### 🔢 **Programming & Tools**  
+- Python (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch)  
+- R (tidyverse, ggplot2, caret)  
+- SQL & Database Management  
+- Git & GitHub for version control  
+
+### 📈 **Machine Learning & AI**  
+- Supervised & Unsupervised Learning  
+- Deep Learning (CNNs, RNNs, Transformers)  
+- Computer Vision & Image Processing  
+- Natural Language Processing (NLP)  
+
+### 📊 **Data Analytics & Visualization**  
+- Statistical Analysis & Hypothesis Testing  
+- Data Cleaning & Feature Engineering  
+- Data Visualization (Matplotlib, Seaborn, Plotly, Tableau)  
+- A/B Testing & Experiment Design  
+
+### 🚀 **Applied Experience**  
+- Predicting Alzheimer’s with MRI scans using XGBoost  
+- Data Science Consulting for startups  
+- Research on AI applications in medical imaging  
+- Building end-to-end machine learning pipelines  
+
+---
+---
+
+## Personal Interests  
+- 🧠 **AI & Medical Imaging** – Exploring deep learning models for healthcare applications  
+- 📊 **Data Science** – Statistical modeling, machine learning, and data-driven decision-making  
+- 🌍 **Impact-Driven Tech** – Using data to solve real-world problems  
+
+---
+
+## Hobbies & Fun Facts  
+- 🥾 **Hiking** – Always looking for the next scenic trail  
+- 📖 **Reading** – Avid reader with an ever-growing booklist  
+- 🍪 **Baking** – Specializes in making (and perfecting) cookies  
+- 🍽️ **Hosting** – Loves bringing people together for dinner parties  
+- ✈️ **Traveling** – Explored **Panama, Croatia, Botswana, Jordan, Namibia, Italy, Japan, Thailand, Singapore**, and more  
+- 🇩🇰 **Danish Heritage** – Half Danish and proud of it!  
+- ✨ **Matching Tattoo** – Has a tattoo that matches with my whole family  
+---
+## Contact Me  
+📧 Email: [millaenielsen@ucla.edu](mailto:millaenielsen@ucla.edu)  
+🔗 LinkedIn: [linkedin.com/in/milla-nielsen-817738290](https://www.linkedin.com/in/milla-nielsen-817738290/)  
+🐙 GitHub: [github.com/millaenielsen](https://github.com/millaenielsen)  

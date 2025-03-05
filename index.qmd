@@ -1,0 +1,38 @@
+---
+title: "Milla Nielsen"
+about: 
+  template: trestles
+  image: profile-pic.png
+  links: 
+    - icon: github
+      text: Github
+      href: "https://github.com/millaenielsen"
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/milla-nielsen-817738290/"
+    - text: Email
+      url: "mailto:millaenielsen@ucla.edu"
+      icon: inbox-fill
+    - text: CV
+      url: "cv.pdf"
+format:
+  html:
+    resources: ["cv.pdf"]
+toc: false
+---
+
+## Bio
+
+I am a senior at the University of California, Los Angeles, majoring in Statistics and Data Science with a minor in Data Science Engineering. My interests lie at the intersection of artificial intelligence and medical imaging. I have conducted research at the University of Copenhagen and expanded my expertise in deep learning through coursework at UCLA, focusing on its applications in medical image processing. My goal is to work at a company committed to using technology to make a meaningful impact on the world.
+
+## What I’m Up To Right Now  
+
+- **Working on:** A project using deep learning to analyze EMG data 
+- **Learning:** Advanced computer vision techniques with PyTorch  
+- **Upcoming Trip:** Planning a visit to Budapest 
+- **Reading:** *Onyx Storm* by Rebecca Yarros
+
+## Let’s Build Something Cool!  
+
+I’m always open to **collaborations in AI, machine learning, and data science consulting**. If you’re working on something exciting, let’s chat!  
+
+📧 [Email Me](mailto:millaenielsen@ucla.edu) | 🐙 [GitHub](https://github.com/millaenielsen) | 📄 [View My CV](cv.pdf)  

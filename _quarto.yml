@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
